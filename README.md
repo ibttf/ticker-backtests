@@ -1,4 +1,4 @@
-# Python Project
+# Python Project -- Ticker Backtests
 
 Find the monthly returns of different tickers if you had bought or sold them at a specific day each month.
 
